@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>http://anupamdagar.com/blog/blog/githubeducationportfolio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/githubsatellite</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/analysingyourfacebookmessengerchat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/reacthasuratodo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/heroku</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/open-source</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/github</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/conference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/berlin</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/data-visualization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/facebook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/graphql</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tag/hasura</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://anupamdagar.com/blog/blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/githubeducationportfolio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/githubsatellite</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/analysingyourfacebookmessengerchat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/reacthasuratodo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/heroku</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/open-source</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/github</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/conference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/berlin</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/data-visualization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/facebook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/graphql</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tag/hasura</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://anupamdagar.com/blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
