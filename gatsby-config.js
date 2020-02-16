@@ -1,39 +1,42 @@
 module.exports = {
+  pathPrefix: "/blog",
   siteMetadata: {
-    title: `nehalem-starter`,
-    siteUrl: `https://nehalem.netlify.com`,
-    description: `A Gatsby starter for nehalem`,
-    topics: [],
+    title: `Blogs by Anupam Dagar`,
+    siteUrl: `http://anupamdagar.com/blog`,
+    description: ``,
+    topics: ["programming", "blogs", "python", "javascript", "GitHub", "geeks", "everyone"],
     menu: [
       {
         name: 'Home',
         path: '/'
       },
       {
-        name: 'Example',
-        path: '/page'
+        name: 'Tags',
+        path: '/tags'
       },
     ],
     footerMenu: [
       {
-        name: 'Example',
-        path: '/page'
+        name: 'Home',
+        path: '/'
+      },
+      {
+        name: 'Tags',
+        path: '/tags'
       },
     ],
     search: true,
     author: {
-      name: `nehalem`,
-      description: `I'm <strong>nehalem</strong>, a Gatsby theme by 
-        <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a 
-        <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
+      name: `Anupam Dagar`,
+      description: `I'm <strong>Anupam Dagar</strong>, a Full Stack Developer and final year undergraduate student at IIIT Allahabad.`,
       social: {
         facebook: ``,
-        twitter: `https://twitter.com/nehalist`,
-        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
+        twitter: `https://twitter.com/siriusdagar`,
+        linkedin: `https://www.linkedin.com/in/anupamdagar/`,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/nehalist`,
-        twitch: ``
+        github: `https://github.com/Anupam-dagar`,
+        heroku: `https://www.heroku.com/podcasts/codeish/43-the-github-student-developer-pack`
       }
     }
   },
@@ -51,6 +54,12 @@ module.exports = {
           icon: `${__dirname}/content/assets/images/logo.png`
         }
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-158646013-1",
+      },
+    },
   ]
 };

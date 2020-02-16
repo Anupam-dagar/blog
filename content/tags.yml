@@ -1,4 +1,52 @@
-- name: Demo
+- name: React
   color: "#007acc"
-  icon: ./assets/images/logo.png
+  icon: ./assets/images/react.png
   featured: true
+- name: GitHub
+  color: "#007acc"
+  icon: ./assets/images/github.png
+  featured: true
+- name: Javascript
+  color: "#007acc"
+  icon: ./assets/images/js.png
+  featured: true
+- name: Facebook
+  color: "#007acc"
+  icon: ./assets/images/fb.png
+  featured: false
+- name: Open Source
+  color: "#007acc"
+  icon: ./assets/images/opensource.png
+  featured: false
+- name: Python
+  color: "#007acc"
+  icon: ./assets/images/python.png
+  featured: false
+- name: Data Visualization
+  color: "#007acc"
+  icon: ./assets/images/tag.png
+  featured: false
+- name: Programming
+  color: "#007acc"
+  icon: ./assets/images/tag.png
+  featured: false
+- name: Heroku
+  color: "#007acc"
+  icon: ./assets/images/heroku.png
+  featured: false
+- name: Conference
+  color: "#007acc"
+  icon: ./assets/images/tag.png
+  featured: false
+- name: Berlin
+  color: "#007acc"
+  icon: ./assets/images/tag.png
+  featured: false
+- name: Technology
+  color: "#007acc"
+  icon: ./assets/images/tag.png
+  featured: false
+- name: GraphQL
+  color: "#007acc"
+  icon: ./assets/images/graphql.png
+  featured: false
